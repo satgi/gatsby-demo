@@ -1,0 +1,212 @@
+
+> gatsby-starter-hello-world@0.1.0 start /Users/satgi/Documents/web/tutorial-part-four
+> npm run develop
+
+
+> gatsby-starter-hello-world@0.1.0 develop /Users/satgi/Documents/web/tutorial-part-four
+> gatsby develop
+
+success open and validate gatsby-configs - 0.013s
+success load plugins - 0.278s
+success onPreInit - 0.002s
+success initialize cache - 0.005s
+success copy gatsby files - 0.035s
+success onPreBootstrap - 0.007s
+success createSchemaCustomization - 0.003s
+success source and transform nodes - 0.061s
+success building schema - 0.187s
+success createPages - 0.021s
+success createPagesStatefully - 0.042s
+success onPreExtractQueries - 0.001s
+success update schema - 0.023s
+success extract queries from components - 0.091s
+success write out requires - 0.014s
+success write out redirect data - 0.001s
+success Build manifest and related icons - 0.085s
+success onPostBootstrap - 0.097s
+⠀
+info bootstrap finished - 2.501 s
+⠀
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gsuccess run queries - 0.024s - 4/4 166.40/s
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G⠀
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[GYou can now view gatsby-starter-hello-world in the browser.
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G⠀
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G  http://localhost:8000/
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G⠀
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[GView GraphiQL, an in-browser IDE, to explore your site's data and schema
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G⠀
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G  http://localhost:8000/___graphql
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G⠀
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[GNote that the development build is not optimized.
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[GTo create a production build, use gatsby build
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G⠀
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gsuccess Building development bundle - 1.617s
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gsuccess Re-building development bundle - 0.029s
+
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                            In Progress                            gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                              Success                              gatsby
+-starter-hello-world
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+
+6 pages                              Success                              gatsby
+-starter-hello-world
